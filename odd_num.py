@@ -1,3 +1,2 @@
-odd = [1,3,5,7]
-
+odd = []
 print(odd)
