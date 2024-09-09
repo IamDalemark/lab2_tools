@@ -1,5 +1,9 @@
+<<<<<<<<< Temporary merge branch 1
+odd = [1,3,5,7,11,13]
+
+print(odd)
+=========
 def odd(num):
     return [odd for odd in num if odd % 2 == 0]
-
-print(odd([1,2,3,4,5,6,7,8,10]))
-print(odd([1,2,3,4,5,6,7,8,10,12,14,16]))
+print(odd([2,3,4,5,6]))
+>>>>>>>>> Temporary merge branch 2
